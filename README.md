@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm Paul, I've been a professional developer for 10+ years, mostly Go since and some React.
+I'm Paul, I've been a software developer for 10+ years, mostly Go and some React.
 
 📍 I'm located in Toronto, Canada
 
-🔭 I've cofounded two startups. I'm currently working on [Mannr](https://www.getmannr.com/), a men's personal styling service over sms.
+💼 I'm currently CTO at [Clout Jam](https://www.cloutjam.com), helping creators brow their business more effectively.
+
+🔭 I've cofounded two startups. The last one being [Mannr](https://www.getmannr.com/), a men's personal styling service over sms.
 
 💡 I'm also the founder of [Spacestation Labs](https://github.com/spacestation/spacestation) a software consultancy.
 
