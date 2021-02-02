@@ -4,7 +4,7 @@ I'm Paul, I've been a software developer for 10+ years, mostly Go and some React
 
 📍 I'm located in Toronto, Canada
 
-💼 I'm currently CTO at [Clout Jam](https://www.cloutjam.com), helping creators brow their business more effectively.
+💼 I'm currently CTO at [Clout Jam](https://www.cloutjam.com), an awesome start-up that's helping creators grow their business more effectively.
 
 🔭 I've cofounded two startups. The last one being [Mannr](https://www.getmannr.com/), a men's personal styling service over sms.
 
