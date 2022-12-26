@@ -2,6 +2,8 @@
 
 I have expert knowledge in building Saas products in an agile environment.
 
+I believe in solving problems driven by real customer needs.
+
 I love leading small yet efficient development teams by creating synergy and enhancing teamwork.
 
 I have been an individual contributor for 10+ years. Mostly Go, some React.
