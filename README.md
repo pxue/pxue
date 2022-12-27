@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Paul.
 
-I have expert knowledge in building Saas products in an agile environment.
+I'm darn good at leading and building Saas products in a startup environment.
 
 I believe in solving problems driven by real customer needs.
 
 I love leading small yet efficient development teams by creating synergy and enhancing teamwork.
 
-I have been an individual contributor for 10+ years. Mostly Go, some React.
+I have been an individual contributor for 10+ years. Mostly Go and React.
 
 ---
 
@@ -18,9 +18,9 @@ I have been an individual contributor for 10+ years. Mostly Go, some React.
 
 🔭 I've cofounded two startups. [Mannr](https://www.getmannr.com/) and [Localyyz](https://www.linkedin.com/pulse/localyyz-1-trending-app-shopify-store-stefan-suppa/).
 
-I like to think about new problems, solve old ones better, and always down to hop on a zoom call (or coffee post covid).
-If you need a tech person to bounce your ideas off, don't hesitate to reach out.
+I worked at various startups and observed their founders for 10 years before I started my own. I compile my thoughts on how to create a successful business on my blog, among other things. While I love to nerd out on tech, understanding real customer need is what gets me out of bed every morning.
 
+🗞️ I write about startups [on my blog](https://pxue.github.io/).
 📫 You can reach me via my personal email or [LinkedIn](https://www.linkedin.com/in/paulxue/).
 
 :calendar: If you prefer to book 30min with me directly, do it directly via [zCal](https://zcal.co/i/pv00ItfW).
