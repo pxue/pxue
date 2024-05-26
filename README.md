@@ -21,6 +21,6 @@ I have been an individual contributor for 10+ years. Mostly Go and React.
 I worked at various startups and observed their founders for 10 years before I started my own. I compile my thoughts on how to create a successful business on my blog, among other things. While I love to nerd out on tech, understanding real customer need is what gets me out of bed every morning.
 
 🗞️ I write about startups [on my blog](https://pxue.github.io/).
-📫 You can reach me via my personal email or [LinkedIn](https://www.linkedin.com/in/paulxue/).
+📫 You can reach me via my personal email or [LinkedIn](https://www.linkedin.com/in/pxue/).
 
 :calendar: If you prefer to book 30min with me directly, do it directly via [zCal](https://zcal.co/i/pv00ItfW).
