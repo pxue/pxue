@@ -12,6 +12,8 @@ I have been an individual contributor for 10+ years. Mostly Go and React.
 
 📍 I'm located in Toronto, Canada
 
+💬 I yap a lot on [X / Twitter](https://x.com/pxue)
+
 💡 I'm the managing partner of [Spacestation Labs](https://spacestation.github.io), a software consultancy, we partner with startup founders and make their idea happen IRL.
 
 🔭 I've cofounded three startups. [Mannr](https://www.getmannr.com/), [Localyyz](https://www.linkedin.com/pulse/localyyz-1-trending-app-shopify-store-stefan-suppa/) and [CloutDesk](https://www.cloutdesk.com/)
